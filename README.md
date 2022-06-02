@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @wrinkledeth
 - 👀 I’m interested in web3 / decentralized applications
-- 🌱 I’m currently learning JavaScript/ Solidity
+- 🌱 I’m currently learning Go / Rust / Solidity
 - 💞️ I’m looking to collaborate on web3 projects!
 - 📫 How to reach me: wrinkled.eth@gmail.com
 
