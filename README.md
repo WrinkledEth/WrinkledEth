@@ -2,8 +2,10 @@
 - 🌱 I’m currently focused on learning Rust and Solidity.
 - 📫 wrinkled.eth@gmail.com
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wrinkledeth&langs_count=10&theme=tokyonight&layout=compact" alt="wrinkledeth :: Top Langs" /></p>
 
+<h2 align="center">Github stats :bar_chart:</h2>
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wrinkledeth&langs_count=10&theme=tokyonight&layout=compact" alt="wrinkledeth :: Top Langs" /></p>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=wrinkledeth&show_icons=true&theme=synthwave" alt="duguosheng :: Profile Stats" /></p>
 
