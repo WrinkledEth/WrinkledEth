@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @wrinkledeth. I'm interested in web3 & decentralized applications!
-- 🌱 I’m currently focused on learning Rust and Solidity.
+- 👋 Hi, I’m @wrinkledeth. I am a blockchain developer interested in building decentralized applications.
+- 🌱 I am currently focused on Solidity and Rust
 - 📫 wrinkled.eth@gmail.com
 
 
