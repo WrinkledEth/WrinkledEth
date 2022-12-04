@@ -1,6 +1,6 @@
 Hi! ฅ^•ﻌ•^ฅ
 
-I'm wrinkled, an aspiring blockchain dev interested in building decentralized applications.
+I'm an aspiring blockchain dev interested in building decentralized applications.
 
 🌱 Currently focused on learning Solidity and Rust
 
