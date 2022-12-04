@@ -1,4 +1,4 @@
-Hi! ฅ^•ﻌ•^ฅ
+# Hi! ฅ^•ﻌ•^ฅ
 
 I'm an aspiring blockchain dev interested in building decentralized applications.
 
