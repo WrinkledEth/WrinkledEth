@@ -1,4 +1,4 @@
-Hi!
+Hi! ฅ^•ﻌ•^ฅ
 
 I'm wrinkled, an aspiring blockchain dev interested in building decentralized applications.
 
