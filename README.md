@@ -1,6 +1,10 @@
-- 👋 Aspiring blockchain dev interested in building decentralized applications.
-- 🌱 Currently focused on learning Solidity and Rust
-- 📫 wrinkled.eth@gmail.com
+Hi!
+
+I'm wrinkled, an aspiring blockchain dev interested in building decentralized applications.
+
+🌱 Currently focused on learning Solidity and Rust
+
+📫 wrinkled.eth@gmail.com
 
 
 <h2 align="center"> </h2>
