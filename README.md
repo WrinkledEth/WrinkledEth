@@ -1,5 +1,6 @@
 # Hello  [^._.^]ﾉ
-I'm an aspiring blockchain dev interested in building decentralized applications.
+
+I am a blockchain dev interested in building decentralized applications.
 
 🌱 Currently focused on learning Solidity and Rust
 
