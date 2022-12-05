@@ -2,7 +2,7 @@
 
 I am a blockchain developer interested in building decentralized applications.
 
-🌱 Currently focused on learning Solidity and Rust
+🌱 Currently focused on Solidity and Rust
 
 📫 wrinkled.eth@gmail.com
 
